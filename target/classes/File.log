@@ -1,0 +1,35 @@
+[04:23:53, 06.11.2022] : Socket closed
+[04:47:37, 06.11.2022] : Socket closed
+[04:49:50, 06.11.2022] : Socket closed
+[04:57:51, 06.11.2022] : Stream closed
+[04:58:04, 06.11.2022] : Socket closed
+[05:01:05, 06.11.2022] : Socket closed
+[05:04:51, 06.11.2022] : Socket closed
+[05:18:27, 06.11.2022] : get message exception
+[05:25:21, 06.11.2022] : get message exception
+[08:50:23, 07.11.2022] : get message exception
+[08:53:04, 07.11.2022] : get message exception
+[08:53:47, 07.11.2022] : get message exception
+[10:22:47, 07.11.2022] : get message exception
+[12:36:15, 08.11.2022] : get message exception
+[01:49:07, 08.11.2022] : get message exception
+[02:31:50, 08.11.2022] : get message exception
+[07:26:39, 08.11.2022] : main exception
+[10:21:40, 09.11.2022] : main exception
+[10:21:45, 09.11.2022] : main exception
+[10:26:49, 09.11.2022] : get message exception
+[10:32:03, 09.11.2022] : get message exception
+[11:02:44, 09.11.2022] : get message exception
+[11:06:09, 09.11.2022] : get message exception
+[11:14:57, 09.11.2022] : get message exception
+[11:18:43, 09.11.2022] : get message exception
+[11:27:12, 09.11.2022] : get message exception
+[11:27:23, 09.11.2022] : get message exception
+[11:51:10, 09.11.2022] : main exception
+[11:58:18, 09.11.2022] : get message exception
+[11:59:13, 09.11.2022] : get message exception
+[12:05:29, 09.11.2022] : get message exception
+[12:12:11, 09.11.2022] : get message exception
+[12:12:58, 09.11.2022] : get message exception
+[12:21:24, 09.11.2022] : main exception
+[12:34:35, 09.11.2022] : Trying to create connection port: 8888 | host: 192.168.0.109
